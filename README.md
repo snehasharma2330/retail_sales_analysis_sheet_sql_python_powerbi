@@ -2,7 +2,7 @@
 ## Retail Sales Data Analysis | End- to-End Project
 
 ### Project Overview
-####This project demonstrates a complete end-to-end data analytics workflow using Google sheets, SQL, Python and Power BI. The objective is to clean messy data retail sales data, perform business analysis, create visualizations and build interactive dashboard which demonstrates sales performance, profitability, customer ratings and regional trends to support data-driven decision making.
+#### This project demonstrates a complete end-to-end data analytics workflow using Google sheets, SQL, Python and Power BI. The objective is to clean messy data retail sales data, perform business analysis, create visualizations and build interactive dashboard which demonstrates sales performance, profitability, customer ratings and regional trends to support data-driven decision making.
 ---
 ## Tools and Technologies
 •	Google sheets – data cleaning
@@ -11,7 +11,7 @@
 •	Power BI – Interactive dashboard
 ---
  ## Dataset Information
-###Dataset Name : Retail Sales Analysis
+### Dataset Name : Retail Sales Analysis
 Columns contains as follows
 •	order_ID
 •	order_date
