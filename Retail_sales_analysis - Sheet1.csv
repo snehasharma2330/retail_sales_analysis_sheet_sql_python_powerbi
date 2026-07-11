@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_Name,Gender,Age,City,Region,Product,Category,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method,Customer_Rating,duplicate
+"1,001",25-06-2025,Unknown,Female,27,Jaipur,North,Mixer,Home,2,"2,800",50,"-2,240","3,982","-6,160",Unknown,4.3,1
+"1,002",30-03-2025,Neha,Female,42,Delhi,North,Chair,Furniture,3,"4,500",20,"10,800","9,450","1,350",Net Banking,4.9,1
+"1,003",13-02-2025,Priya,Female,38,Jaipur,North,T-shirt,Fashion,3,"1,200",0,"3,600","2,520","1,080",UPI,4.5,1
+"1,004",09-04-2025,Priya,Female,47,Bangalore,South,Shoes,Fashion,5,"3,500",0,"17,500","12,250","5,250",Net Banking,3.8,1
+"1,005",06-03-2025,Sneha,Male,33,Kolkata,East,Headphones,Electronics,2,"2,500",20,"4,000","3,500",500,UPI,3.8,1
+"1,006",10-03-2025,Riya,Female,28,Kolkata,East,T-shirt,Fashion,5,"1,200",15,"5,100","4,200",900,Net Banking,4.4,1
+"1,007",25-06-2025,Aman,Female,54,Pune,West,Chair,Furniture,4,"4,500",0,"18,000","12,600","5,400",Card,3.9,1
+"1,008",26-06-2025,Neha,Female,46,Chennai,South,Table,Furniture,5,"7,000",5,"33,250","24,500","8,750",UPI,4.9,1
+"1,009",12-06-2025,Priya,Male,42,Bangalore,South,Laptop,Electronics,3,"65,000",0,"1,95,000","1,36,500","58,500",Card,4,1
+"1,010",06-02-2025,Rahul,Male,50,Jaipur,North,Laptop,Electronics,5,"65,000",0,"3,25,000","2,27,500","97,500",Cash,3.6,1
+"1,011",24-03-2025,Riya,Male,25,Delhi,North,T-shirt,Fashion,1,"1,200",20,960,840,120,Net Banking,3.6,1
+"1,012",07-03-2025,Karan,Female,27,Mumbai,West,Headphones,Electronics,5,"2,500",15,"10,625","8,750","1,875",Card,4.5,1
+"1,013",05-01-2025,Neha,Male,37,Mumbai,West,Laptop,Electronics,5,"65,000",5,"3,08,750","2,27,500","81,250",Card,3.9,1
+"1,014",25-05-2025,Anjali,Female,51,Mumbai,West,Shoes,Fashion,5,"3,500",0,"17,500","12,250","5,250",UPI,4.5,1
+"1,015",04-04-2025,Sneha,Female,43,Bangalore,South,T-shirt,Fashion,2,"1,200",5,"2,280","1,680",600,Card,4.7,1
+"1,016",16-03-2025,Sneha,Male,21,Delhi,North,Mixer,Home,5,"2,800",5,"13,300","9,800","3,500",Cash,4.7,1
+"1,017",29-03-2025,Karan,Male,29,Kolkata,East,T-shirt,Fashion,2,"1,200",15,"2,040","1,680",360,Net Banking,3.6,1
+"1,018",05-06-2025,Neha,Male,23,Kolkata,East,Headphones,Electronics,2,"2,500",10,"4,500","3,500","1,000",UPI,4.9,1
+"1,019",04-01-2025,Rahul,Male,30,Delhi,North,Table,Furniture,2,"7,000",15,"11,900","9,800","2,100",Cash,3.8,1
+"1,020",26-05-2025,Riya,Male,49,Pune,West,T-shirt,Fashion,5,"1,200",20,"4,800","4,200",600,Card,4.4,1
+"1,021",30-05-2025,Aman,Female,58,Pune,West,Mixer,Home,5,"2,800",15,"11,900","9,800","2,100",Cash,3.7,1
+"1,022",19-05-2025,Riya,Male,54,Delhi,North,Phone,Electronics,1,"30,000",20,"24,000","21,000","3,000",Cash,3.8,1
+"1,023",07-04-2025,Rahul,Male,28,Kolkata,East,Chair,Furniture,5,"4,500",5,"21,375","15,750","5,625",UPI,3.6,1
+"1,024",01-06-2025,Vikram,Female,40,Hyderabad,South,Chair,Furniture,1,"4,500",15,"3,825","3,150",675,Cash,4.2,1
+"1,025",09-04-2025,Anjali,Female,20,Mumbai,West,Mixer,Home,2,"2,800",15,"4,760","3,920",840,Card,3.9,1
+"1,026",23-05-2025,Aarav,Female,58,Kolkata,East,Chair,Furniture,5,"4,500",20,"18,000","15,750","2,250",Card,4.9,1
+"1,027",19-02-2025,Priya,Male,46,Hyderabad,South,Chair,Furniture,4,"4,500",5,"17,100","12,600","4,500",Cash,4.1,1
+"1,028",29-05-2025,Priya,Male,30,Bangalore,South,Laptop,Electronics,5,"65,000",20,"2,60,000","2,27,500","32,500",UPI,3.9,1
+"1,029",04-03-2025,Riya,Male,48,Chennai,South,Headphones,Electronics,1,"2,500",20,"2,000","1,750",250,UPI,3.5,1
+"1,030",18-05-2025,Riya,Female,19,Kolkata,East,Headphones,Electronics,1,"2,500",15,"2,125","1,750",375,UPI,3.9,1
+"1,031",09-05-2025,Neha,Male,59,Jaipur,North,Shoes,Fashion,1,"3,500",5,"3,325","2,450",875,Net Banking,4.6,1
+"1,032",09-05-2025,Rahul,Male,51,Mumbai,West,Mixer,Home,1,"2,800",5,"2,660","1,960",700,UPI,3.8,1
+"1,033",12-06-2025,Aman,Male,30,Mumbai,West,Mixer,Home,3,"2,800",15,"7,140","5,880","1,260",Card,4.5,1
+"1,034",28-02-2025,Aarav,Female,54,Delhi,North,Headphones,Electronics,5,"2,500",0,"12,500","8,750","3,750",Cash,4.3,1
+"1,035",17-02-2025,Rahul,Male,41,Mumbai,West,Chair,Furniture,1,"4,500",5,"4,275","3,150","1,125",Net Banking,4.6,1
+"1,036",23-04-2025,Aman,Male,43,Jaipur,North,Phone,Electronics,5,"30,000",10,"1,35,000","1,05,000","30,000",UPI,4.1,1
+"1,037",18-04-2025,Karan,Female,55,Delhi,North,Chair,Furniture,4,"4,500",5,"17,100","12,600","4,500",Cash,4.3,1
+"1,038",28-01-2025,Unknown,Female,26,Hyderabad,South,Headphones,Electronics,2,"2,500",5,"4,750","3,500","1,250",Net Banking,5,1
+"1,039",07-06-2025,Aarav,Male,51,Hyderabad,South,Headphones,Electronics,2,"2,500",20,"4,000","3,500",500,Net Banking,4.5,1
+"1,040",04-06-2025,Aarav,Male,38,Kolkata,East,Table,Furniture,3,"7,000",20,"16,800","14,700","2,100",UPI,4.5,1
+"1,041",09-02-2025,Sneha,Male,25,Delhi,North,T-shirt,Fashion,1,"1,200",5,"1,140",840,300,Cash,4.1,1
+"1,042",02-05-2025,Aarav,Female,42,Pune,West,Laptop,Electronics,1,"65,000",20,"52,000","45,500","6,500",Cash,4.6,1
+"1,043",03-04-2025,Aarav,Female,28,Hyderabad,South,Laptop,Electronics,2,"65,000",15,"1,10,500","91,000","19,500",Cash,4.6,1
+"1,044",09-02-2025,Priya,Male,19,Jaipur,North,Phone,Electronics,5,"30,000",10,"1,35,000","1,05,000","30,000",UPI,4.3,1
+"1,045",05-05-2025,Aarav,Female,23,Pune,West,Headphones,Electronics,1,"2,500",10,"2,250","1,750",500,Card,4.9,1
+"1,046",13-01-2025,Karan,Female,50,Mumbai,West,T-shirt,Fashion,5,"1,200",0,"6,000","4,200","1,800",UPI,4.7,1
+"1,047",25-02-2025,Aman,Female,19,Delhi,North,Phone,Electronics,3,"30,000",20,"72,000","63,000","9,000",Net Banking,3.9,1
+"1,048",15-06-2025,Aman,Male,57,Jaipur,North,Shoes,Fashion,5,"3,500",0,"17,500","12,250","5,250",Cash,3.9,1
+"1,049",19-04-2025,Karan,Female,20,Mumbai,West,Mixer,Home,3,"2,800",0,"8,400","5,880","2,520",Cash,4.8,2
+"1,050",10-05-2025,Rahul,Female,58,Kolkata,East,Shoes,Fashion,2,"3,500",20,"5,600","4,900",700,Cash,3.6,1
+"1,051",25-01-2025,Aarav,Male,25,Mumbai,West,Headphones,Electronics,1,"2,500",10,"2,250","1,750",500,Net Banking,3.9,1
+"1,052",11-03-2025,Neha,Male,52,Bangalore,South,Table,Furniture,3,"7,000",10,"18,900","14,700","4,200",Card,3.8,1
+"1,053",29-04-2025,Riya,Male,23,Delhi,North,Headphones,Electronics,1,"2,500",20,"2,000","1,750",250,Cash,4.9,1
+"1,054",05-01-2025,Riya,Female,38,Mumbai,West,Mixer,Home,4,"2,800",0,"11,200","7,840","3,360",Card,3.6,1
+"1,055",01-04-2025,Vikram,Male,55,Bangalore,South,Shoes,Fashion,3,"3,500",5,"9,975","7,350","2,625",Net Banking,3.9,1
+"1,056",04-04-2025,Anjali,Male,32,Pune,West,T-shirt,Fashion,5,"1,200",0,"6,000","4,200","1,800",Net Banking,4.5,1
+"1,057",20-06-2025,Neha,Female,46,Delhi,North,Shoes,Fashion,4,"3,500",5,"13,300","9,800","3,500",Card,4.5,1
+"1,058",02-03-2025,Anjali,Female,25,Hyderabad,South,Mixer,Home,4,"2,800",20,"8,960","7,840","1,120",Cash,4.6,1
+"1,059",07-03-2025,Sneha,Female,35,Kolkata,East,Headphones,Electronics,1,"2,500",0,"2,500","1,750",750,Card,4,1
+"1,060",15-01-2025,Aman,Male,24,Hyderabad,South,T-shirt,Fashion,4,"1,200",5,"4,560","3,360","1,200",Cash,4.5,1
+"1,061",04-03-2025,Riya,Female,34,Kolkata,East,Shoes,Fashion,4,"3,500",10,"12,600","9,800","2,800",Unknown,4.7,1
+"1,062",10-06-2025,Aarav,Female,34,Hyderabad,South,Table,Furniture,1,"7,000",10,"6,300","4,900","1,400",UPI,3.5,1
+"1,063",01-04-2025,Sneha,Male,32,Bangalore,South,Phone,Electronics,2,"30,000",15,"51,000","42,000","9,000",UPI,3.9,1
+"1,064",15-04-2025,Priya,Female,58,Delhi,North,Shoes,Fashion,2,"3,500",15,"5,950","4,900","1,050",Net Banking,4.9,1
+"1,065",25-02-2025,Sneha,Male,25,Delhi,North,Headphones,Electronics,3,"2,500",5,"7,125","5,250","1,875",Card,4.6,1
+"1,066",01-01-2025,Aman,Female,54,Kolkata,East,T-shirt,Fashion,2,"1,200",5,"2,280","1,680",600,UPI,4.3,1
+"1,067",06-01-2025,Sneha,Female,44,Mumbai,West,Laptop,Electronics,4,"65,000",5,"2,47,000","1,82,000","65,000",Card,4.3,1
+"1,068",26-05-2025,Neha,Male,53,Bangalore,South,T-shirt,Fashion,1,"1,200",0,"1,200",840,360,Cash,3.6,1
+"1,069",20-02-2025,Rahul,Male,51,Chennai,South,Table,Furniture,4,"7,000",15,"23,800","19,600","4,200",Net Banking,4.5,1
+"1,070",29-03-2025,Vikram,Female,26,Hyderabad,South,Chair,Furniture,1,"4,500",5,"4,275","3,150","1,125",Cash,4.6,1
+"1,071",29-03-2025,Vikram,Female,41,Delhi,North,Mixer,Home,2,"2,800",15,"-4,760","3,920","-8,680",Net Banking,4,1
+"1,072",11-01-2025,Aman,Female,38,Pune,West,Shoes,Fashion,4,"3,500",20,"11,200","9,800","1,400",Card,4.5,1
+"1,073",22-03-2025,Aarav,Female,39,Chennai,South,T-shirt,Fashion,5,"1,200",5,"5,700","4,200","1,500",Cash,3.8,1
+"1,074",27-05-2025,Rahul,Female,47,Chennai,South,Chair,Furniture,4,"4,500",20,"14,400","12,600","1,800",UPI,4.1,1
+"1,075",28-05-2025,Unknown,Male,49,Kolkata,East,Headphones,Electronics,2,"2,500",5,"4,750","3,500","1,250",Net Banking,4.2,1
+"1,076",17-05-2025,Aman,Female,58,Mumbai,West,T-shirt,Fashion,3,"1,200",10,"3,240","2,520",720,Net Banking,4.2,1
+"1,077",19-05-2025,Sneha,Female,40,Kolkata,East,Shoes,Fashion,3,"3,500",15,"8,925","7,350","1,575",UPI,5,1
+"1,078",14-02-2025,Karan,Female,22,Delhi,North,Chair,Furniture,3,"4,500",15,"11,475","9,450","2,025",Cash,3.6,1
+"1,079",21-05-2025,Neha,Female,37,Delhi,North,Table,Furniture,4,"7,000",5,"26,600","19,600","7,000",Net Banking,4.1,1
+"1,080",24-05-2025,Priya,Male,24,Hyderabad,South,T-shirt,Fashion,5,"1,200",20,"4,800","4,200",600,Net Banking,4.3,1
+"1,081",19-05-2025,Riya,Female,58,Chennai,South,Phone,Electronics,1,"30,000",50,"12,000","21,000","-9,000",Net Banking,4.3,1
+"1,082",15-06-2025,Vikram,Male,28,Mumbai,West,Mixer,Home,3,"2,800",10,"7,560","5,880","1,680",Net Banking,4.7,1
+"1,083",16-02-2025,Aarav,Female,28,Jaipur,North,Mixer,Home,5,"2,800",10,"12,600","9,800","2,800",Card,4.7,1
+"1,084",26-04-2025,Vikram,Male,39,Hyderabad,South,Chair,Furniture,3,"4,500",10,"12,150","9,450","2,700",Net Banking,4.3,1
+"1,085",01-05-2025,Aman,Male,55,Bangalore,South,T-shirt,Fashion,5,"1,200",10,"5,400","4,200","1,200",Net Banking,4.3,1
+"1,086",02-03-2025,Karan,Female,30,Mumbai,West,Mixer,Home,3,"2,800",20,"6,720","5,880",840,UPI,4.9,1
+"1,087",17-04-2025,Anjali,Male,25,Bangalore,South,Shoes,Fashion,4,"3,500",0,"14,000","9,800","4,200",Net Banking,4.3,1
+"1,088",21-03-2025,Vikram,Male,53,Hyderabad,South,Laptop,Electronics,5,"65,000",0,"3,25,000","2,27,500","97,500",Cash,4.8,1
+"1,089",15-05-2025,Rahul,Male,24,Hyderabad,South,Headphones,Electronics,1,"2,500",10,"2,250","1,750",500,UPI,4.7,1
+"1,090",31-03-2025,Aman,Male,29,Pune,West,Headphones,Electronics,4,"2,500",5,"9,500","7,000","2,500",UPI,3.7,1
+"1,091",02-01-2025,Sneha,Female,40,Kolkata,East,Laptop,Electronics,1,"65,000",5,"61,750","45,500","16,250",Cash,4.9,1
+"1,092",21-06-2025,Neha,Male,49,Hyderabad,South,Phone,Electronics,2,"30,000",5,"57,000","42,000","15,000",Cash,5,1
+"1,093",30-06-2025,Vikram,Male,42,Kolkata,East,Laptop,Electronics,4,"65,000",10,"2,34,000","1,82,000","52,000",UPI,4.5,1
+"1,094",20-03-2025,Priya,Female,45,Chennai,South,Table,Furniture,5,"7,000",15,"29,750","24,500","5,250",Card,4.8,1
+"1,095",10-04-2025,Anjali,Male,24,Chennai,South,Headphones,Electronics,4,"2,500",10,"9,000","7,000","2,000",Card,4.2,1
+"1,096",30-06-2025,Sneha,Male,52,Pune,West,Shoes,Fashion,2,"3,500",10,"6,300","4,900","1,400",Cash,4.4,1
+"1,097",05-04-2025,Vikram,Female,56,Pune,West,Chair,Furniture,1,"4,500",0,"4,500","3,150","1,350",Cash,4.8,1
+"1,098",25-05-2025,Aman,Male,28,Pune,West,T-shirt,Fashion,3,"1,200",0,"3,600","2,520","1,080",Net Banking,3.9,1
+"1,099",10-01-2025,Aman,Male,56,Delhi,North,Headphones,Electronics,1,"2,500",5,"2,375","1,750",625,Card,4.9,1
+"1,100",05-01-2025,Vikram,Female,31,Kolkata,East,Phone,Electronics,2,"30,000",5,"57,000","42,000","15,000",Net Banking,4.3,1
+"1,101",24-04-2025,Neha,Male,34,Bangalore,South,Headphones,Electronics,2,"2,500",20,"4,000","3,500",500,Cash,4.8,1
+"1,102",01-05-2025,Vikram,Female,38,Bangalore,South,Laptop,Electronics,5,"65,000",10,"2,92,500","2,27,500","65,000",Card,4.6,1
+"1,103",22-05-2025,Vikram,Female,45,Kolkata,East,Shoes,Fashion,2,"3,500",10,"6,300","4,900","1,400",UPI,4.3,1
+"1,104",28-06-2025,Anjali,Male,57,Chennai,South,Table,Furniture,5,"7,000",20,"28,000","24,500","3,500",Net Banking,4.5,1
+"1,105",15-01-2025,Vikram,Male,33,Jaipur,North,Mixer,Home,4,"2,800",10,"10,080","7,840","2,240",Card,3.8,1
+"1,106",05-05-2025,Karan,Female,30,Hyderabad,South,Phone,Electronics,3,"30,000",5,"85,500","63,000","22,500",Net Banking,4.4,1
+"1,107",21-01-2025,Rahul,Male,23,Bangalore,South,Shoes,Fashion,1,"3,500",0,"3,500","2,450","1,050",Card,4.7,1
+"1,108",15-01-2025,Sneha,Male,23,Hyderabad,South,Laptop,Electronics,5,"65,000",5,"3,08,750","2,27,500","81,250",Card,4.5,1
+"1,109",02-05-2025,Karan,Male,60,Mumbai,West,Table,Furniture,2,"7,000",10,"12,600","9,800","2,800",Card,3.6,1
+"1,110",26-03-2025,Sneha,Male,60,Kolkata,East,Shoes,Fashion,5,"3,500",10,"15,750","12,250","3,500",Net Banking,4.5,1
+"1,111",09-04-2025,Aman,Female,58,Delhi,North,Mixer,Home,2,"2,800",15,"4,760","3,920",840,Net Banking,3.5,1
+"1,112",27-04-2025,Unknown,Male,36,Mumbai,West,Table,Furniture,4,"7,000",15,"23,800","19,600","4,200",Card,4.6,1
+"1,113",26-01-2025,Anjali,Female,41,Kolkata,East,Chair,Furniture,2,"4,500",10,"8,100","6,300","1,800",Cash,5,1
+"1,114",09-01-2025,Vikram,Female,24,Bangalore,South,Laptop,Electronics,3,"65,000",20,"1,56,000","1,36,500","19,500",UPI,4,1
+"1,115",03-04-2025,Aman,Male,44,Pune,West,Laptop,Electronics,3,"65,000",0,"1,95,000","1,36,500","58,500",Cash,4.4,1
+"1,116",24-03-2025,Neha,Male,55,Bangalore,South,Chair,Furniture,1,"4,500",10,"4,050","3,150",900,UPI,3.6,1
+"1,117",18-04-2025,Neha,Female,34,Bangalore,South,T-shirt,Fashion,3,"1,200",5,"3,420","2,520",900,Cash,4.8,1
+"1,118",30-03-2025,Priya,Male,39,Pune,West,Chair,Furniture,1,"4,500",15,"3,825","3,150",675,Card,4.4,1
+"1,049",18-03-2025,Aarav,Female,46,Mumbai,West,Shoes,Fashion,3,"3,500",10,"9,450","7,350","2,100",Net Banking,3.6,2
+"1,120",19-04-2025,Riya,Male,24,Jaipur,North,T-shirt,Fashion,2,"1,200",0,"2,400","1,680",720,Cash,3.5,1
+"1,121",04-06-2025,Aarav,Male,51,Mumbai,West,Phone,Electronics,3,"30,000",5,"85,500","63,000","22,500",Unknown,4.7,1
+"1,122",28-04-2025,Sneha,Female,43,Hyderabad,South,Chair,Furniture,2,"4,500",5,"8,550","6,300","2,250",Card,4.5,1
+"1,123",06-04-2025,Anjali,Female,44,Mumbai,West,T-shirt,Fashion,1,"1,200",5,"1,140",840,300,Card,3.7,1
+"1,124",30-06-2025,Rahul,Female,22,Delhi,North,Chair,Furniture,1,"4,500",10,"4,050","3,150",900,Card,4.1,1
+"1,125",20-05-2025,Karan,Female,22,Jaipur,North,Laptop,Electronics,3,"65,000",15,"1,65,750","1,36,500","29,250",Net Banking,3.7,1
+"1,126",09-06-2025,Aman,Male,46,Jaipur,North,Table,Furniture,4,"7,000",15,"23,800","19,600","4,200",UPI,4.3,1
+"1,127",27-02-2025,Neha,Female,52,Kolkata,East,T-shirt,Fashion,1,"1,200",20,960,840,120,Net Banking,4.9,1
+"1,128",10-01-2025,Aarav,Female,32,Hyderabad,South,T-shirt,Fashion,5,"1,200",15,"5,100","4,200",900,Net Banking,4.3,1
+"1,129",27-05-2025,Aman,Female,59,Chennai,South,Laptop,Electronics,5,"65,000",15,"2,76,250","2,27,500","48,750",UPI,3.8,1
+"1,130",04-03-2025,Anjali,Female,31,Delhi,North,Shoes,Fashion,1,"3,500",15,"2,975","2,450",525,Net Banking,4.4,1
+"1,131",15-03-2025,Vikram,Male,22,Hyderabad,South,Mixer,Home,3,"2,800",20,"6,720","5,880",840,UPI,4.1,1
+"1,132",11-03-2025,Karan,Male,38,Mumbai,West,Phone,Electronics,4,"30,000",0,"1,20,000","84,000","36,000",Cash,4.5,1
+"1,133",14-04-2025,Aman,Male,51,Bangalore,South,Chair,Furniture,4,"4,500",5,"17,100","12,600","4,500",Card,4.3,1
+"1,134",26-01-2025,Sneha,Male,21,Chennai,South,Chair,Furniture,2,"4,500",15,"7,650","6,300","1,350",Card,4,1
+"1,135",26-03-2025,Riya,Male,44,Hyderabad,South,Headphones,Electronics,1,"2,500",15,"2,125","1,750",375,Card,5,1
+"1,136",13-04-2025,Riya,Male,49,Jaipur,North,Table,Furniture,4,"7,000",10,"25,200","19,600","5,600",Cash,3.7,1
+"1,137",05-04-2025,Rahul,Female,19,Delhi,North,Chair,Furniture,2,"4,500",15,"7,650","6,300","1,350",Card,4.4,1
+"1,138",02-04-2025,Priya,Female,38,Bangalore,South,Chair,Furniture,5,"4,500",20,"18,000","15,750","2,250",Cash,4.2,1
+"1,139",29-06-2025,Aman,Female,29,Hyderabad,South,Headphones,Electronics,1,"2,500",10,"2,250","1,750",500,Card,3.9,1
+"1,140",16-03-2025,Karan,Female,29,Hyderabad,South,Mixer,Home,5,"2,800",20,"11,200","9,800","1,400",Card,4.3,1
+"1,141",03-03-2025,Riya,Female,49,Bangalore,South,Table,Furniture,2,"7,000",10,"-12,600","9,800","-22,400",Cash,4.4,1
+"1,142",14-04-2025,Rahul,Female,27,Bangalore,South,Phone,Electronics,5,"30,000",10,"1,35,000","1,05,000","30,000",Cash,3.6,1
+"1,143",01-01-2025,Neha,Male,28,Chennai,South,Table,Furniture,5,"7,000",15,"29,750","24,500","5,250",Cash,3.9,1
+"1,144",11-04-2025,Aarav,Male,45,Delhi,North,Chair,Furniture,2,"4,500",10,"8,100","6,300","1,800",Cash,4.6,1
+"1,145",29-01-2025,Sneha,Female,39,Hyderabad,South,Shoes,Fashion,5,"3,500",0,"17,500","12,250","5,250",UPI,4.6,1
+"1,146",10-01-2025,Karan,Male,27,Delhi,North,Shoes,Fashion,1,"3,500",0,"3,500","2,450","1,050",Net Banking,4.3,1
+"1,147",27-02-2025,Riya,Male,52,Kolkata,East,T-shirt,Fashion,1,"1,200",20,960,840,120,UPI,4,1
+"1,148",13-03-2025,Vikram,Female,47,Hyderabad,South,Phone,Electronics,3,"30,000",5,"85,500","63,000","22,500",Cash,4.2,1
+"1,149",22-03-2025,Unknown,Female,59,Chennai,South,T-shirt,Fashion,5,"1,200",20,"4,800","4,200",600,UPI,4.8,1
+"1,150",22-01-2025,Vikram,Male,23,Kolkata,East,Table,Furniture,5,"7,000",0,"35,000","24,500","10,500",Cash,3.7,1
+"1,151",02-02-2025,Anjali,Male,56,Hyderabad,South,Shoes,Fashion,4,"3,500",5,"13,300","9,800","3,500",UPI,4.9,1
+"1,152",15-06-2025,Aarav,Female,28,Bangalore,South,Table,Furniture,5,"7,000",5,"33,250","24,500","8,750",Card,4,1
+"1,153",12-04-2025,Rahul,Male,55,Chennai,South,Laptop,Electronics,5,"65,000",5,"3,08,750","2,27,500","81,250",Net Banking,3.8,1
+"1,154",23-05-2025,Aarav,Male,22,Jaipur,North,Phone,Electronics,5,"30,000",5,"1,42,500","1,05,000","37,500",Cash,4,1
+"1,155",10-05-2025,Sneha,Female,23,Chennai,South,Headphones,Electronics,1,"2,500",10,"2,250","1,750",500,UPI,3.5,1
+"1,156",13-04-2025,Sneha,Female,20,Delhi,North,Table,Furniture,3,"7,000",0,"21,000","14,700","6,300",Card,4.2,1
+"1,157",26-01-2025,Anjali,Male,29,Pune,West,Laptop,Electronics,5,"65,000",20,"2,60,000","2,27,500","32,500",UPI,3.8,1
+"1,158",02-06-2025,Rahul,Male,36,Delhi,North,Table,Furniture,1,"7,000",5,"6,650","4,900","1,750",Card,3.7,1
+"1,159",23-03-2025,Aarav,Female,23,Kolkata,East,Shoes,Fashion,2,"3,500",15,"5,950","4,900","1,050",Net Banking,4.4,1
+"1,160",18-05-2025,Aarav,Male,52,Delhi,North,T-shirt,Fashion,1,"1,200",5,"1,140",840,300,Cash,3.6,1
+"1,161",13-05-2025,Riya,Male,19,Jaipur,North,Laptop,Electronics,1,"65,000",50,"26,000","45,500","-19,500",Cash,4.9,1
+"1,162",10-03-2025,Aarav,Male,34,Hyderabad,South,Chair,Furniture,1,"4,500",0,"4,500","3,150","1,350",Card,4.3,1
+"1,163",06-01-2025,Riya,Female,29,Kolkata,East,Shoes,Fashion,5,"3,500",0,"17,500","12,250","5,250",Card,4.9,1
+"1,164",19-05-2025,Riya,Female,59,Mumbai,West,Headphones,Electronics,3,"2,500",20,"6,000","5,250",750,UPI,4.8,1
+"1,165",03-05-2025,Anjali,Male,53,Mumbai,West,Chair,Furniture,2,"4,500",5,"8,550","6,300","2,250",Cash,4.7,1
+"1,166",27-01-2025,Anjali,Female,38,Chennai,South,shoes,Fashion,2,"3,500",0,"7,000","4,900","2,100",Card,4.3,1
+"1,167",17-02-2025,Rahul,Male,27,Pune,West,Headphones,Electronics,1,"2,500",15,"2,125","1,750",375,Net Banking,3.6,1
+"1,168",16-03-2025,Karan,Female,25,Chennai,South,T-shirt,Fashion,4,"1,200",5,"4,560","3,360","1,200",Card,3.9,1
+"1,169",08-05-2025,Vikram,Male,46,Jaipur,North,Phone,Electronics,1,"30,000",20,"24,000","21,000","3,000",Cash,4.1,1
+"1,170",05-05-2025,Aman,Male,36,Pune,West,Shoes,Fashion,2,"3,500",10,"6,300","4,900","1,400",Card,4.6,1
+"1,171",18-02-2025,Vikram,Male,56,Delhi,North,T-shirt,Fashion,2,"1,200",5,"2,280","1,680",600,Card,4.4,1
+"1,172",02-03-2025,Aarav,Female,22,Jaipur,North,Shoes,Fashion,1,"3,500",15,"2,975","2,450",525,UPI,3.9,1
+"1,173",05-01-2025,Riya,Female,40,Hyderabad,South,Chair,Furniture,2,"4,500",20,"7,200","6,300",900,Cash,4.5,1
+"1,174",15-03-2025,Priya,Female,25,Jaipur,North,Headphones,Electronics,4,"2,500",10,"9,000","7,000","2,000",Card,4.9,1
+"1,175",18-02-2025,Rahul,Male,42,Kolkata,East,Chair,Furniture,2,"4,500",5,"8,550","6,300","2,250",Net Banking,4,1
+"1,176",22-03-2025,Priya,Female,19,Chennai,South,Headphones,Electronics,1,"2,500",10,"2,250","1,750",500,UPI,4.7,1
+"1,177",31-05-2025,Sneha,Male,37,Jaipur,North,Chair,Furniture,3,"4,500",20,"10,800","9,450","1,350",UPI,4.6,1
+"1,178",03-05-2025,Anjali,Male,36,Hyderabad,South,Phone,Electronics,1,"30,000",10,"27,000","21,000","6,000",Net Banking,4.5,1
+"1,179",21-03-2025,Riya,Male,53,Mumbai,West,Mixer,Home,5,"2,800",5,"13,300","9,800","3,500",Net Banking,4.4,1
+"1,180",22-05-2025,Sneha,Male,19,Chennai,South,Shoes,Fashion,4,"3,500",10,"12,600","9,800","2,800",Card,3.5,1
+"1,181",24-03-2025,Anjali,Female,22,Mumbai,West,Laptop,Electronics,5,"65,000",5,"3,08,750","2,27,500","81,250",Unknown,4.8,1
+"1,182",09-06-2025,Aarav,Female,19,Pune,West,Mixer,Home,5,"2,800",20,"11,200","9,800","1,400",Card,4.1,1
+"1,183",20-06-2025,Vikram,Male,26,Pune,West,Laptop,Electronics,5,"65,000",10,"2,92,500","2,27,500","65,000",Card,3.8,1
+"1,184",07-02-2025,Anjali,Male,19,Kolkata,East,Headphones,Electronics,4,"2,500",20,"8,000","7,000","1,000",Card,4.3,1
+"1,185",26-04-2025,Karan,Female,37,Mumbai,West,Mixer,Home,5,"2,800",0,"14,000","9,800","4,200",Card,3.8,1
+"1,186",29-04-2025,Unknown,Male,38,Kolkata,East,Table,Furniture,2,"7,000",0,"14,000","9,800","4,200",Net Banking,4.4,1
+"1,187",03-03-2025,Sneha,Female,40,Chennai,South,Laptop,Electronics,2,"65,000",0,"1,30,000","91,000","39,000",Cash,4.3,1
+"1,188",02-05-2025,Aarav,Female,30,Jaipur,North,T-shirt,Fashion,5,"1,200",0,"6,000","4,200","1,800",UPI,4,1
+"1,189",05-06-2025,Aarav,Male,57,Chennai,South,Mixer,Home,3,"2,800",5,"7,980","5,880","2,100",Net Banking,3.9,1
+"1,190",17-03-2025,Rahul,Female,41,Pune,West,Laptop,Electronics,5,"65,000",10,"2,92,500","2,27,500","65,000",Card,4.9,1
+"1,191",06-04-2025,Riya,Male,54,Hyderabad,South,Laptop,Electronics,1,"65,000",20,"52,000","45,500","6,500",Cash,4.1,1
+"1,192",20-02-2025,Karan,Male,39,Mumbai,West,T-shirt,Fashion,5,"1,200",20,"4,800","4,200",600,UPI,4.7,1
+"1,193",10-01-2025,Vikram,Female,22,Hyderabad,South,Shoes,Fashion,3,"3,500",10,"9,450","7,350","2,100",Net Banking,4,1
+"1,194",25-03-2025,Neha,Male,22,Kolkata,East,Shoes,Fashion,2,"3,500",0,"7,000","4,900","2,100",Net Banking,4.6,1
+"1,195",22-03-2025,Anjali,Male,22,Chennai,South,Table,Furniture,3,"7,000",20,"16,800","14,700","2,100",UPI,4.7,1
+"1,196",28-06-2025,Rahul,Male,54,Jaipur,North,Mixer,Home,2,"2,800",10,"5,040","3,920","1,120",Net Banking,4.1,1
+"1,197",01-05-2025,Rahul,Male,58,Pune,West,Table,Furniture,3,"7,000",20,"16,800","14,700","2,100",Card,4.2,1
+"1,198",18-01-2025,Vikram,Male,34,Delhi,North,Mixer,Home,4,"2,800",20,"8,960","7,840","1,120",Net Banking,4.4,1
+"1,199",16-05-2025,Aarav,Female,46,Bangalore,South,T-shirt,Fashion,1,"1,200",15,"1,020",840,180,Net Banking,4.3,1
+"1,200",24-02-2025,Riya,Male,28,Pune,West,Mixer,Home,2,"2,800",5,"5,320","3,920","1,400",Cash,3.8,1
