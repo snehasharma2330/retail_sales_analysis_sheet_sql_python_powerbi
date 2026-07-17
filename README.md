@@ -5,10 +5,10 @@
 #### This project demonstrates a complete end-to-end data analytics workflow using Google sheets, SQL, Python and Power BI. The objective is to clean messy data retail sales data, perform business analysis, create visualizations and build interactive dashboard which demonstrates sales performance, profitability, customer ratings and regional trends to support data-driven decision making.
 ---
 ## Tools and Technologies
-•	Google sheets – data cleaning
-•	Big Quary – business analysis
-•	Python ( Matplotlib and Pandas) – Exploratory data analysis (EDA) 
-•	Power BI – Interactive dashboard
+### •	Google sheets – data cleaning
+### •	Big Quary – business analysis
+### •	Python ( Matplotlib and Pandas) – Exploratory data analysis (EDA) 
+### •	Power BI – Interactive dashboard
 ---
  ## Dataset Information
 ### Dataset Name : Retail Sales Analysis
