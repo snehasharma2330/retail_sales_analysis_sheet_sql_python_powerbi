@@ -111,21 +111,21 @@ Columns contains as follows
 •	Month
 ---
 ## Business Insights
-•	Electronics products generated the highest revenue.
-•	Profit increased with higher sales, showing a positive relationship.
-•	Card was the most preferred payment method.
-•	Some regions consistently outperformed other in profit.
-•	Average customer ratings remained above 4, indicating generally positive customer satisfaction.
-•	Data cleaning improved consistency and removed quality issues before analysis.
+### •	Electronics products generated the highest revenue.
+### •	Profit increased with higher sales, showing a positive relationship.
+### •	Card was the most preferred payment method.
+### •	Some regions consistently outperformed other in profit.
+### •	Average customer ratings remained above 4, indicating generally positive customer satisfaction.
+### •	Data cleaning improved consistency and removed quality issues before analysis.
 ---
 ## Business Recommendations
 ### Based on the analysis, the following recommendations can help improve business performance.
-•	Focus on high revenue products.
-•	Improve low-profit categories 
-•	Strengthen high performing regions – improve marketing resources
-•	Increase digital payments
-•	Improve customer experience – maintain product quality and delivery service
-•	Optimized seasonal planning – use monthly sales trend to forecast
+### •	Focus on high revenue products.
+### •	Improve low-profit categories 
+### •	Strengthen high performing regions – improve marketing resources
+### •	Increase digital payments
+### •	Improve customer experience – maintain product quality and delivery service
+### •	Optimized seasonal planning – use monthly sales trend to forecast
 ---
 ## Conclusion
 ### This project reflects my practical understanding of the complete data analytics process, from preparing raw data to delivering interactive dashboards and business recommendations. It showcases my technical skills and ability to solve real-world business problems using data.
