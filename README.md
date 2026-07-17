@@ -74,21 +74,21 @@ Columns contains as follows
 ## Python Exploratory Data Analysis
 ### Performed data exploration and visualization using Matplotlib and Pandas
 ### Analysis Performed
-•	Dataset overview
-•	Data information
-•	Summary statistics
-•	Missing value validation
-•	Sales distribution
-•	Profit distribution
-•	Sales vs Profit correlation
-•	Scatter plot analysis
-•	Payment method frequency
-•	Top 10 products by sales
-•	Average profit by category
-•	Top 5 highest sales orders
-•	Query filtering
-•	Duplicated detection
-•	Exported cleaned dataset
+### •	Dataset overview
+### •	Data information
+### •	Summary statistics
+### •	Missing value validation
+### •	Sales distribution
+### •	Profit distribution
+### •	Sales vs Profit correlation
+### •	Scatter plot analysis
+### •	Payment method frequency
+### •	Top 10 products by sales
+### •	Average profit by category
+### •	Top 5 highest sales orders
+### •	Query filtering
+### •	Duplicated detection
+### •	Exported cleaned dataset
 ---
 ## Power BI Dashboard
 ### An interactive dashboard was developed for business reporting.
