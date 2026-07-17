@@ -33,15 +33,15 @@ Columns contains as follows
 ## Data Transformation (Google Sheets)
 ### Before analysis, the data contained multiple quality issues that were cleaned.
 ### Cleaning tasks performed
-•	Removed duplicate records
-•	Replaced missing customer name with “Unknown”
-•	Replaced missing payment method with “Unknown”
-•	Filled missing customer rating with average rating
-•	Standardized city and product names
-•	Corrected negative quantities
-•	Limited discounts greater than 50%
-•	Removed extra spaces using TRIM()
-•	Corrected inconsistent values
+### •	Removed duplicate records
+### •	Replaced missing customer name with “Unknown”
+### •	Replaced missing payment method with “Unknown”
+### •	Filled missing customer rating with average rating
+### •	Standardized city and product names
+### •	Corrected negative quantities
+### •	Limited discounts greater than 50%
+### •	Removed extra spaces using TRIM()
+### •	Corrected inconsistent values
 ---
 ## Business Analysis (SQL)
 ### Business questions sloved using SQL.
